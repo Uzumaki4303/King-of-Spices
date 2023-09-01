@@ -4,7 +4,7 @@ King of Spices is a responsive restaurant website made with HTML, CSS and JavaSc
 
 ## Checkout :tada:
 
-The website is live with the help of GitHub pages. ⭐ Visit the website: https://alkaison.github.io/King-of-Spices/
+The website is live with the help of GitHub pages. ⭐ Visit the website: https://github.com/Uzumaki4303/King-of-spices
 
 ## Features 
 
