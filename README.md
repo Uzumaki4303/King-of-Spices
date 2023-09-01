@@ -26,7 +26,7 @@ The website is live with the help of GitHub pages. ⭐ Visit the website: https:
 
 ### Setup Steps 
 
-1. `Fork` this repository from [here](https://github.com/Alkaison/King-of-Spices/fork "Fork").
+1. `Fork` this repository from [here](https://github.com/Uzumaki4303/King-of-spices/fork "Fork").
 2. `Clone` the forked repository on your local system.
 3. Open the `King of Spices` folder into your source-code editor.
 
@@ -40,4 +40,4 @@ The website is live with the help of GitHub pages. ⭐ Visit the website: https:
 
 ## LICENSE
 
-This work is published under [MIT](https://github.com/Alkaison/King-of-Spices/blob/main/LICENSE "LICENSE") License.
+This work is published under [MIT](https://github.com/Uzumaki4303/King-of-spices/blob/main/LICENSE") License.
