@@ -207,7 +207,6 @@ section {
 }
 .promo-container {
     display: grid;
-    width: 1200px;
     gap: 48px;
     grid-auto-flow: column;
     grid-auto-columns: 30%;
@@ -243,14 +242,14 @@ section {
 
 @media screen and (max-width: 800px) {
     .promo-container {
-        grid-auto-columns: 36%;
+        grid-auto-columns: 46%;
         margin: 16px;
     }
 }
 @media screen and (max-width: 600px) {
     .promo-container {
-        grid-auto-columns: 70%;
-        margin: 8px;
+        grid-auto-columns: 90%;
+        margin: 50px;
     }
 }
 .promo-card:hover > * , .promo-card:hover svg path {
@@ -265,7 +264,6 @@ section {
     bottom: 0;
     width: 100%;
     height: 25%;
-    /* background: #FF9D2E; */
     background-image: linear-gradient(to top, #FF9D2E, #f1632b);
     z-index: -1;
     transition: all .4s;
